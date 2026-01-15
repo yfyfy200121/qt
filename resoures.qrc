@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/bdwxdhxt.jpg</file>
+        <file>images/bfsh.jpg</file>
+        <file>images/filenew.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/filesave.png</file>
+        <file>images/filesaveas.png</file>
+        <file>images/find.png</file>
+        <file>images/help.png</file>
+        <file>images/hh.jpeg</file>
+        <file>images/hh.jpg</file>
+        <file>images/hh.png</file>
+        <file>images/hh1.png</file>
+        <file>images/hh2.png</file>
+        <file>images/hh3.jpg</file>
+        <file>images/hh4.jpg</file>
+        <file>images/hq.ico</file>
+        <file>images/hq.png</file>
+        <file>images/new.png</file>
+        <file>images/njzy.jpg</file>
+        <file>images/njzymini.jpg</file>
+        <file>images/open.png</file>
+        <file>images/qgyw.jpg</file>
+        <file>images/zg.bmp</file>
+        <file>images/zoom-in.png</file>
+        <file>images/bf.jpg</file>
+    </qresource>
+</RCC>
